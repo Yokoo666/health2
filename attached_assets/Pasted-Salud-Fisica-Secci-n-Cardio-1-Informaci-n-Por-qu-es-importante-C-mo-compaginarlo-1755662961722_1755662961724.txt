@@ -1,0 +1,686 @@
+Salud Fisica:
+
+📍 Sección: Cardio
+
+1. Información
+
+Por qué es importante.
+
+Cómo compaginarlo con el gimnasio.
+
+Qué efectos tiene en ti.
+
+Tipos de cardio.
+
+Recomendaciones de tipos de cardio dependiendo de tu zona.
+
+Mitos y verdades.
+
+Relación con la salud mental.
+
+Relación con la longevidad.
+
+Precauciones para evitar lesiones.
+
+
+
+2. Sincronización
+
+Integración con Wear OS para registrar datos de actividad de cardio.
+
+
+
+3. Gamificación
+
+Ranking en base a:
+
+Kilómetros supuestamente recorridos.
+
+Tiempo medio de sesión.
+
+Consistencia.
+
+
+
+4. Mapas y rutas (si la API lo permite)
+
+Mapa de cardio con rutas seguras y espacios recomendados para hacerlo.
+
+
+
+5. Visualización y análisis
+
+Gráfica con evolución del rendimiento de la actividad de cardio.
+
+Recomendaciones de la IA en base a los datos registrados por Wear OS.
+
+
+
+
+
+📍 Sección: Alimentación
+
+1. Escáner de alimentos
+
+Escáner de código de barras para determinar el valor nutricional de los alimentos.
+
+Mostrar cantidad de macronutrientes por cada 100g.
+
+Etiquetas de colores según nivel de salud:
+
+🟢 Verde = muy saludable.
+
+🟡 Amarillo = decente.
+
+🔴 Rojo = poco saludable.
+
+
+Recomendaciones personalizadas en base al plan del usuario (si existe).
+
+
+
+2. Fotos de platos (IA de nutrición)
+
+Posibilidad de hacer fotos al plato de comida o seleccionar imágenes desde la galería.
+
+La IA establece la cantidad aproximada de cada macronutriente.
+
+Si el usuario tiene un plan personalizado:
+
+Indicar cuánto le falta de cada macro.
+
+Determinar si lo que falta es insignificante o relevante.
+
+
+
+3. Información educativa
+
+Importancia de seguir una dieta equilibrada.
+
+Impacto en el rendimiento deportivo.
+
+Impacto en la salud mental/emocional.
+
+Mitos y verdades sobre nutrición.
+
+
+
+4. Buscador de recetas
+
+Buscador en el que el usuario selecciona ingredientes.
+
+La app muestra recetas que incluyan solo esos ingredientes.
+
+
+Salud Mental:
+
+
+Meditación:
+
+Temporizador tiempo personalizado
+Explicación de la meditación (que es, funciones e historia) y sus tipos explicando para que sirve cada uno, que es y su historia (dejar claro que los pensamientos no son enemigos), beneficios con respaldo científico, recomendaciones prácticas, conexión con la vida diaria, diferencias con otras prácticas, recomendaciones de tipo de meditación entre mindfulness, Trascendental, vipassana y zen con su por qué:
+
+Mindfulness
+Trascendental (incluye explicación de como crear tu mantra personal)
+Vipassana
+Zen 
+
+7 variantes de meditación guiada mindfulness, zen y vipassana de las siguientes duraciones: 3min, 5min, 10min, 12min, 15min y 20min (meditación diaria)
+
+Relajación:
+
+Paneles con 4 tipos de sesiones de respiración diferentes cuya duración es modificable por el usuario cambiando la cantidad de ciclos:
+
+Respiración equitativa
+Respiración del cuadrilátero
+Respiración 4-7-8
+Prueba de contención
+
+7 sesiones de yoga con explicaciones de para que sirve cada ejercicio:
+
+
+
+1️⃣ Sesión: Energía Matutina
+
+Objetivo: Activar el cuerpo, mejorar la circulación y empezar el día con energía.
+Duración: 20-25 min
+
+Ejercicios:
+
+1. Respiración profunda (Pranayama simple) – 2 min
+
+Oxigena el cuerpo y despierta la mente.
+
+
+
+2. Saludo al Sol (Surya Namaskar) – 3 rondas
+
+Calienta músculos y articulaciones, activa la circulación.
+
+
+
+3. Postura del Guerrero I (Virabhadrasana I) – 30s por lado
+
+Fortalece piernas y glúteos, mejora la resistencia.
+
+
+
+4. Postura del Perro boca abajo (Adho Mukha Svanasana) – 1 min
+
+Estira la espalda, hombros y pantorrillas.
+
+
+
+5. Postura de la Cobra (Bhujangasana) – 30s x 2
+
+Abre el pecho y mejora la postura.
+
+
+
+6. Postura del Niño (Balasana) – 1-2 min
+
+Relaja la espalda y calma la mente.
+
+
+
+
+
+
+2️⃣ Yoga para Después de Comer (Digestión y Ligereza)
+
+Objetivo: Favorecer la digestión, aliviar hinchazón abdominal y aportar energía suave tras comer.
+Duración: 20-25 min
+
+Ejercicios:
+
+1. Respiración Abdominal Suave – 2 min
+
+Masajea los órganos digestivos y prepara el cuerpo para el movimiento.
+
+
+
+2. Torsión Sentada Suave (Ardha Matsyendrasana modificada) – 30s por lado
+
+Estimula digestión y libera tensión abdominal.
+
+
+
+3. Gato-Vaca (Marjaryasana-Bitilasana) – 1 min
+
+Favorece movilidad espinal y masaje intestinal.
+
+
+
+4. Postura del Niño con torsión lateral – 1 min por lado
+
+Estira costados y facilita el movimiento intestinal.
+
+
+
+5. Postura de la Mariposa (Baddha Konasana) – 2 min
+
+Abre caderas y relaja abdomen.
+
+
+
+6. Rodillas al Pecho (Apanasana) – 1-2 min
+
+Masajea la zona abdominal y reduce gases.
+
+
+
+7. Savasana con respiración consciente – 5 min
+
+Relaja completamente y permite que el sistema digestivo trabaje sin tensión.
+
+
+
+
+
+
+3️⃣ Sesión: Yoga para Reducir Estrés y Ansiedad
+
+Objetivo: Calmar la mente, mejorar la respiración y disminuir tensión mental.
+Duración: 25 min
+
+Ejercicios:
+
+1. Respiración Alterna (Nadi Shodhana) – 3 min
+
+Equilibra el sistema nervioso y reduce ansiedad.
+
+
+
+2. Postura del Niño (Balasana) – 2 min
+
+Proporciona sensación de seguridad y descanso mental.
+
+
+
+3. Postura de la Mariposa (Baddha Konasana) – 1 min
+
+Abre caderas y relaja tensión emocional.
+
+
+
+4. Torsión Sentada Suave – 30s por lado
+
+Libera tensión de la columna y órganos internos.
+
+
+
+5. Postura de la Pierna sobre la pared (Viparita Karani) – 5 min
+
+Mejora el retorno venoso, calma el sistema nervioso.
+
+
+
+6. Savasana (Relajación final) – 5 min
+
+Relajación completa del cuerpo y la mente.
+
+
+
+
+Aquí tienes la nueva sesión de yoga relajante que sustituye a la sesión 4️⃣ de fuerza y tonificación.
+Es nueva, no se ha mencionado antes en este chat, y está enfocada en calma, respiración y liberación de tensión.
+
+
+
+
+4️⃣ Sesión: Yoga Restaurativo y Relajante
+
+Objetivo: Soltar tensiones físicas y mentales, inducir calma profunda.
+Duración: 30 min
+
+Ejercicios:
+
+1. Respiración Ujjayi – 3 min
+
+Calma la mente, regula el ritmo cardíaco y prepara para la relajación.
+
+
+
+2. Postura del Cocodrilo (Makarasana) – 3 min
+
+Boca abajo con brazos cruzados bajo la cabeza; libera tensión lumbar y permite respiración profunda.
+
+
+
+3. Postura de Rodillas al Pecho (Apanasana) – 2 min
+
+Relaja la espalda baja y masajea la zona abdominal.
+
+
+
+4. Postura del Bebé Feliz (Ananda Balasana) – 2 min
+
+Suelta tensión en caderas y zona lumbar; promueve sensación de juego y relajación.
+
+
+
+5. Postura de la Diosa Reclining (Supta Baddha Konasana) – 5 min
+
+Abre caderas y pecho, facilita respiración profunda y relajación.
+
+
+
+6. Piernas en la Pared (Viparita Karani) – 7 min
+
+Mejora la circulación, reduce cansancio en piernas y calma el sistema nervioso.
+
+
+
+7. Savasana Guiada (Relajación Final) – 8 min
+
+Relajación total del cuerpo y mente; puedes acompañar con respiración consciente o visualización.
+
+
+
+
+
+
+5️⃣ Sesión: Yoga para Dormir Mejor
+
+Objetivo: Relajar el cuerpo y la mente antes de dormir.
+Duración: 20 min
+
+Ejercicios:
+
+1. Respiración 4-7-8 – 2 min
+
+Induce relajación profunda.
+
+
+
+2. Postura de la Mariposa tumbada (Supta Baddha Konasana) – 2 min
+
+Relaja caderas y zona lumbar.
+
+
+
+3. Torsión Supina (Supta Matsyendrasana) – 1 min por lado
+
+Libera tensión de la espalda.
+
+
+
+4. Postura de las Piernas en la pared (Viparita Karani) – 5 min
+
+Calma el sistema nervioso y facilita el sueño.
+
+
+
+5. Savasana con respiración lenta – 5-7 min
+
+Cierra la sesión con relajación total.
+
+
+
+
+
+
+6️⃣ Sesión: Yoga para la Espalda y Postura
+
+Objetivo: Fortalecer y estirar la espalda, mejorar la alineación corporal.
+Duración: 25 min
+
+Ejercicios:
+
+1. Respiración diafragmática – 2 min
+
+Activa la conciencia corporal.
+
+
+
+2. Gato-Vaca – 1 min
+
+Flexibiliza y lubrica la columna.
+
+
+
+3. Postura de la Esfinge (Salamba Bhujangasana) – 30s x 2
+
+Fortalece lumbares suavemente.
+
+
+
+4. Postura del Perro Boca Abajo – 1 min
+
+Estira columna y hombros.
+
+
+
+5. Postura del Puente (Setu Bandhasana) – 30s x 2
+
+Fortalece glúteos y mejora la postura.
+
+
+
+6. Torsión Supina – 1 min por lado
+
+Relaja la zona lumbar y dorsal.
+
+
+
+7. Savasana – 3 min
+
+Finaliza relajando toda la columna.
+
+
+
+
+
+
+7️⃣ Sesión Nueva: Yoga para la Tarde (Renovación y Equilibrio)
+
+Objetivo: Recuperar energía a media tarde, reducir fatiga mental y mejorar la concentración sin activar demasiado el cuerpo.
+Duración: 25-30 min
+
+Ejercicios:
+
+1. Respiración Alterna (Nadi Shodhana) – 3 min
+
+Equilibra hemisferios cerebrales, aporta claridad mental.
+
+
+
+2. Postura de la Montaña con Brazos Arriba (Tadasana Urdhva Hastasana) – 1 min
+
+Estira columna y activa circulación suave.
+
+
+
+3. Postura del Triángulo Suave (Trikonasana con apoyo) – 30s por lado
+
+Abre costados, favorece respiración profunda y libera tensión.
+
+
+
+4. Postura de la Media Luna en el Suelo (Ardha Chandrasana adaptada) – 1 min por lado
+
+Mejora equilibrio interno sin fatiga.
+
+
+
+5. Torsión Supina Suave – 1 min por lado
+
+Libera tensión acumulada en columna y abdomen.
+
+
+
+6. Piernas en la Pared (Viparita Karani) – 5 min
+
+Reduce pesadez de piernas y calma el sistema nervioso.
+
+
+
+7. Savasana o Meditación Cortita – 5 min
+
+Finaliza la sesión renovado, listo para continuar el día con claridad y calma.
+
+
+
+
+
+Biblioteca de sonidos y canciones relajantes:
+
+Sonidos relajantes:
+
+Sonido de pájaros cantando
+Sonido de olas rompiendo
+Sonido de lluvia
+Sonido de río fluyendo
+Sonido paisaje con cascada
+Ruido blanco
+Ruido Rosa
+
+Canciones relajantes:
+
+1. Hymn to the Dawn – Scott Buckley (Sí, poner autor)
+
+2. Morning Sunrise – Calm Ambient Music (No es necesario poner autor)
+
+3. Meditation Music – Pixabay (No es necesario poner autor)
+
+4. Sunrise (Ambient Instrumental) – Pixabay (No es necesario poner autor)
+
+5. 417Hz Energy Cleansing – Freesound (CC0) (No es necesario poner autor)
+
+6. 741Hz Inner Peace – Freesound (CC0) (No es necesario poner autor)
+
+7. Deep Sleep Ambient – Pixabay (No es necesario poner autor)
+
+
+
+
+Adicciones:
+
+Información sobre que son, como te seducen, los efectos que tienen en ti, sus principales causas, mensajes claves para normalizar y las mejores formas de dejarlas:
+
+Fap con porno
+Fap sin porno
+Tabaco
+Váper
+Azúcar
+Comida ultraprocesada
+Videojuegos
+Juegos de azar
+Compras impulsivas
+Alcochol
+Redes sociales
+
+
+Registro diario (impulsos vs veces que se resiste) (Actualización)
+
+
+
+
+Journaling:
+
+Información de que es el journaling, los tipos, como se hace, que se necesita para hacerlo, sus efectos en ti, el por qué te afecta positivamente y un espacio para crear notas para realizar journaling digital con opción de modo seguro para el cual se necesite una contraseña creada por el usuario para acceder.
+
+
+Sueño
+
+Información de que es el sueño y por qué es tan importante
+Que es la higiene del sueño y como mejorarla
+Otros buenos hábitos para mejorar tu calidad de sueño
+Cosas a evitar y cuanto afectan a la calidad del sueño en una escala del 1 al 5
+Medidor de calidad de sueño a través de sonido con análisisis de cantidad de sueño profundo, rem, ligero, puntuación de sueño, evolución de la puntuación de sueño y recomendaciones de la IA para mejorarlo en base a tus datos con casilla que diga "ya lo estoy haciendo" y que en base a tus datos indique el tipo de soñador que eres "oso, pingüino (cambian en la gamificación)  (si es que hay una API para ello, sino sería para una actualización)
+
+Librería de sonidos para quedarse dormido más fácilmente:
+
+1. “Ambient Sleep Music” – composiciones de YouTube Audio Library
+• La YouTube Audio Library ofrece varias pistas etiquetadas como “Ambient” o “Sleep” libres de derechos para uso personal. Se pueden usar en YouTube, redes sociales o para relajación sin problemas de copyright.
+
+2. “Calm Mind” – Kevin MacLeod
+• Compositor ampliamente difundido en la comunidad Creative Commons. “Calm Mind” es un tema suave y relajante, ideal para conciliar el sueño. Su licencia CC BY 3.0 permite uso siempre que se mencione al autor.
+
+3. “Sleepy Fish” – Music For Dreaming
+• Un tema ambiental con sonidos acuáticos, muy sereno. Disponible en bancos de música libre de derechos (royalty-free), apto para relajación y sesiones de meditación.
+
+4. “Dreaming” – Kevin MacLeod
+• Otro tema creado por Kevin MacLeod, también con licencia CC BY 4.0. Tiene un ambiente etéreo y relajante, perfecto para desacelerar antes de dormir.
+
+5. “Soft Piano Music – Relaxing Sleep Music” – AShamaluevMusic
+• Música de piano suave específicamente pensada para dormir. Aunque no siempre sin copyright, muchas pistas de AShamaluevMusic están disponibles para uso no comercial y para dormir sin problema.
+
+6. “Weightless” – comedia de sonidos ambientales
+• Aunque el famoso tema “Weightless” de Marconi Union es bajo copyright, existen versiones inspiradas y libres de licencia (por creadores independientes) que recrean el mismo ambiente relajante sin restricciones de derechos.
+
+7. Sonidos de la naturaleza – lluvia, bosque, olas
+• Grabaciones de lluvia suave, olas del mar, o bosque con sonidos de hojas y agua. Muchas están disponibles bajo licencias royalty-free en bancos como Freesound, Zapsplat o AudioMicro.
+
+Decidir cuanto tiempo el usuario quiere que dure cada pista (actualización)
+
+
+5 meditaciones para quedarte dormido
+
+
+Control de luces de casa (Actualización)
+Sincronización con Wear OS (Actualización)
+
+
+
+Reconocimiento y Regulación emocional:
+
+Qué es, por qué es importante, como mejorarlo, hábitos recomendados, resultados de tener unas mejores capacidades de reconocimiento y regulación emocional, glosario de emociones, registro de humor por caritas con diferentes expresiones y meditación mindfulness
+
+Salud Emocional:
+
+Fortalecimiento emocional:
+
+Qué es, por qué es importante, como tener un mejor fortalecimiento emocional, resultados de tener una mejor fuerza emocional
+
+1. Información extra y didáctica
+
+Neurociencia detrás de la fuerza emocional
+Explicar cómo el cerebro regula emociones y cómo el entrenamiento emocional genera cambios físicos (ej. neuroplasticidad).
+
+
+Mitos comunes sobre la fortaleza emocional
+Ej.: “Ser fuerte no significa no sentir”, “No es lo mismo reprimir que regular”.
+
+Ejemplos reales
+Historias cortas de personas o personajes históricos que destacaron por su resiliencia.
+
+Factores que la debilitan
+Ej.: estrés crónico, relaciones tóxicas, falta de descanso, mala alimentación.
+
+Beneficios concretos y medibles
+No solo “serás más fuerte”, sino “reducirás la probabilidad de burnout un 30%”, “mejora de la toma de decisiones bajo presión”.
+
+
+
+
+
+
+
+2. Elementos interactivos
+
+
+Diario emocional guiado
+Plantillas para anotar emociones del día, causas y cómo se manejaron, con gráficos de evolución.
+
+Respirómetro virtual
+Ejercicios guiados de respiración para reducir la intensidad emocional en momentos críticos.
+(Respiración diafragmática y respiración 4-7-8)
+
+
+
+
+
+
+3. Herramientas de seguimiento (actualización)
+
+
+Indicador de nivel de estrés y calma 
+Con encuestas rápidas o conexión con wearables para medir ritmo cardíaco y HRV (variabilidad de la frecuencia cardíaca).
+
+
+
+
+
+4. Contenido de entrenamiento (actualización)
+
+Microclases en vídeo o audio
+Ejercicios prácticos de 2-5 minutos para entrenar la calma, el enfoque, la empatía, etc.
+
+Meditaciones guiadas temáticas
+Ej.: para frustración, para nervios antes de hablar en público, para pérdidas emocionales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salud Social:
+
+
+Habilidades sociales básicas;
+
+Por qué son importantes, qué puedes lograr si consigues desarrollarlas al 100% con estudios científicos que lo demuestren, hábitos para desarrollarla para principiantes e intermedios (saludar a desconocidos en la calle, hablar con gente que no conozcas…), aviso de que puedes utilizar el chat de IA para practicar el dirigir una conversación, información sobre qué es el carisma, como desarrollarlo y por qué es positivo aclarando que no te tienes que obsesionar ya que si no tu carisma será falso. También recalcar que lo principal del carisma es la naturalidad real (estar como si los desconocidos fuesen tus amigos), la empatía y la conexión genuina.
+Información de por qué la empatía es positiva e importante apoyado por artículos científicos y cómo trabajarla incluyendo actividades y hábitos.
+
+
+Relaciones y resolución de conflictos:
+
+Por qué es importante, efectos que tienen en ti tener relaciones sanas y una buena capacidad de resolución de conflictos, prácticas para probar si tus relaciones son sanas, hábitos y actividades para mejorar tu capacidad de resolución de conflictos. Todo esto con ejemplos prácticos, técnicas rápidas de resolución de conflictos (escucha activa, técnica del yo siento… cuando…  o buscar soluciones conjuntas) y mitos y errores comunes como por ejemplo decir que tener la razón no es solucionar un conflicto o que evitar el conflicto no es sano. Además, una checklist en la que el usuario pueda comparar si sus relaciones son sanas o tóxicas.
+
+
+Relaciones románticas:
+
+Consejos para citas, indicar que el carisma y el practicar habilidades sociales básicas es vital, consejos para ligar, soluciones para problemas comunes de pareja, errores frecuentes en citas y parejas (intentar impresionar demasiado, depender solo del físico, evitar comunicación clara, expectativas poco realistas…), checklist de red flags y green flags
+(Red flags: control excesivo, manipulación, celos extremos, falta de respeto.
+Green flags: apoyo mutuo, comunicación abierta, confianza, respeto a la individualidad), micro-técnicas de comunicación en pareja como: técnica del “yo siento” en vez de acusar ó
+la regla 5:1 (mantener más interacciones positivas que negativas), recordar que ligar y tener pareja no es solo habilidad social, sino también autoestima, autocuidado y gestión emocional y ejemplos o casos rápidos
+Ej.: “Si tu pareja evita hablar de un problema, puedes usar la técnica X para abrir el diálogo…”.

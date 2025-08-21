@@ -1,0 +1,39 @@
+💡 Sistema de Gamificación para Objetivos Personales (IA de Salud)
+
+1. 🎯 Objetivo principal
+
+Motivar a los usuarios a mantenerse constantes con sus hábitos saludables (como ir al gimnasio, meditar, comer sano, etc.) a través de una experiencia tipo videojuego.
+
+
+
+2. ❤️ Sistema de vidas
+
+Cada usuario empieza con 3 vidas.
+
+Si el usuario no cumple con uno de sus objetivos diarios, pierde una porción de vida, proporcionalmente grande al efecto que tiene en su progreso, y, consecuentemente, no gana la experiencia asignada a esa tarea.
+
+Si se queda sin vidas:
+
+Usuario gratuito: no puede registrar progresos durante 24 horas pero el día siguiente puede registrar los del día en el que no los pudo registrar y el del presente (castigo leve, pero molesto).
+
+Usuario premium: tiene vidas ilimitadas.
+
+
+
+3. 🔥 Sistema de Rachas
+
+Cada día que el usuario cumple sus metas, su racha aumenta. La XP inicial que gana el usuario es menor que la experiencia que realmente está ganando respecto al progreso, la cual se ve compensada por la experiencia que se gana a partir de los 3 días de racha.
+
+Perder la racha en una tarea implica:
+
+Menor ganancia de experiencia en la siguiente sesión, pérdida de una porción de corazón, de la experiencia que se habría ganado si se hubiese completado la tarea y reinicio de la racha (penalización suave pero significativa)
+
+Perder la racha de todos los hábitos en un día implica:
+Perder un corazón entero y toda la experiencia que se hubiese ganado si se hubiese completado la tarea y el reinicio de la racha, y por lo tanto, ganar menos experiencia.
+
+
+Congeladores de racha (usables con gemas) permiten proteger rachas en días excepcionales, hay dos tipos:
+
+Congelador de racha de tarea: congela la racha de las tareas, pero no te devuelve la experiencia perdida ya que no has progresado en ese día.
+
+Congelador de racha de día: congela la racha del día en el que se aplican, pero no te devuelve la experiencia perdida ya que no has progresado en ese día.
